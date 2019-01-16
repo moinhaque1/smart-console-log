@@ -1,0 +1,22 @@
+{
+  "name": "smart-console-log",
+  "version": "1.0.0",
+  "description": "A smarter way to log to console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moinhaque1/smart-console-log.git"
+  },
+  "keywords": [
+    "logging"
+  ],
+  "author": "Moin Haque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moinhaque1/smart-console-log/issues"
+  },
+  "homepage": "https://github.com/moinhaque1/smart-console-log#readme"
+}
